@@ -20,12 +20,13 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>&nbsp
   ---
+  <div>
+    
   ### :man_technologist: About Me :
 I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
-
-  
 An energetic and enthusiastic frontend developer with experience in web application development and an internship at Cloveri. 
 :triumph: I have experience working with modern technologies and development tools such as JavaScript, TypeScript, React, SASS, SCSS, API, Git, and GitLab. My goal is to create high-quality and effective user interfaces.
+  </div>
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
