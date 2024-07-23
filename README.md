@@ -22,21 +22,22 @@
   ---
   ### :man_technologist: About Me :
 I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
-An energetic and enthusiastic frontend developer with experience in web application development and an internship at Cloveri. 
 
+  
+An energetic and enthusiastic frontend developer with experience in web application development and an internship at Cloveri. 
 :triumph: I have experience working with modern technologies and development tools such as JavaScript, TypeScript, React, SASS, SCSS, API, Git, and GitLab. My goal is to create high-quality and effective user interfaces.
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/antdesign/antdesign-plain-wordmark.svg"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/antdesign/antdesign-plain-wordmark.svg"width="40" height="40"/>&nbsp
+<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"width="40" height="40"/>&nbsp
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"width="40" height="40"/>&nbsp
+<img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg"width="40" height="40"/>&nbsp
+<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"width="40" height="40"/>&nbsp
 <img src= "https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"/>
-<img src = "https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" />
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"/>
+<img src = "https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg"width="40" height="40"/>&nbsp
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40"/>&nbsp
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"width="40" height="40"/>&nbsp
 </div>
 </div>
