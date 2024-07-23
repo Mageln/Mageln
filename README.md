@@ -41,3 +41,10 @@ An energetic and enthusiastic frontend developer with experience in web applicat
   <img src = "https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"width="40" height="40"/>&nbsp
 </div>
 </div>
+<div>
+  ---
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mageln&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mageln)](https://git.io/streak-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Mageln)](https://github.com/anuraghazra/github-readme-stats)
+</div>
