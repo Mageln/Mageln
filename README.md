@@ -37,7 +37,7 @@ An energetic and enthusiastic frontend developer with experience in web applicat
 <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg"width="40" height="40"/>&nbsp
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"width="40" height="40"/>&nbsp
 <img src= "https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"width="40" height="40"/>&nbsp
-<img src = "https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg"width="40" height="40"/>&nbsp
+<img src = "https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"width="40" height="40"/>&nbsp
   <img src = "https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40"/>&nbsp
   <img src = "https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"width="40" height="40"/>&nbsp
 </div>
