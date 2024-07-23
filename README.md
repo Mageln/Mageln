@@ -18,7 +18,7 @@
 </h1>
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>&nbsp
   ---
   ### :man_technologist: About Me :
 I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
@@ -35,7 +35,7 @@ An energetic and enthusiastic frontend developer with experience in web applicat
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"width="40" height="40"/>&nbsp
 <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg"width="40" height="40"/>&nbsp
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"width="40" height="40"/>&nbsp
-<img src= "https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"/>
+<img src= "https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"width="40" height="40"/>&nbsp
 <img src = "https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg"width="40" height="40"/>&nbsp
   <img src = "https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40"/>&nbsp
   <img src = "https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"width="40" height="40"/>&nbsp
