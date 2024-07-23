@@ -17,3 +17,26 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  ---
+  ### :man_technologist: About Me :
+I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+An energetic and enthusiastic frontend developer with experience in web application development and an internship at Cloveri. 
+
+:triumph: I have experience working with modern technologies and development tools such as JavaScript, TypeScript, React, SASS, SCSS, API, Git, and GitLab. My goal is to create high-quality and effective user interfaces.
+
+---
+### :hammer_and_wrench: Languages and Tools :
+<div>
+<img src="https://github.com/devicons/devicon/blob/master/icons/antdesign/antdesign-plain-wordmark.svg"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"/>
+<img src= "https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"/>
+<img src = "https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" />
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"/>
+</div>
+</div>
